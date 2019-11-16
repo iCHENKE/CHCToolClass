@@ -1,2 +1,2 @@
 # CTools
-my tool class
+my tools
