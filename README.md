@@ -1,2 +1,2 @@
-# CHCToolClass
+# CTools
 my tool class
